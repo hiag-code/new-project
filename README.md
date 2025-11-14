@@ -136,5 +136,5 @@ Este projeto é livre para uso pessoal, acadêmico ou esportivo.
 
 ---
 
-## Pojeto funciona melhor no CMD
+## Projeto funciona melhor no CMD
 
